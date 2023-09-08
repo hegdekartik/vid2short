@@ -1,1 +1,1 @@
-SRT files
+This folder contains SRT files
